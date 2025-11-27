@@ -7,8 +7,6 @@
 
 <br>
 
-- 🌱 I’m currently learning **AI, ML, IoT, Next.js**
-
 - 💬 Experience with **Java, MERN**
 
 - 📫 Get in touch **snehasinghaug09@gmail.com**
